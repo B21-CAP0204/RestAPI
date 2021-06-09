@@ -18,7 +18,7 @@ Endpoint: https://neat-coast-314213.et.r.appspot.com/api2?<value_no_kk>  ----> w
 
 # Cloud Architecture
 
-![Cloud Architecture](https://drive.google.com/drive/u/4/my-drive)
+![Cloud Architecture](https://github.com/B21-CAP0204/RestAPI/blob/master/cloud%20architecture.png)
 
 # Cloud Storage and Database
 
